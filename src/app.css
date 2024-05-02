@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Kanit', sans-serif;
+  font-style: normal;
+}
+
+html {
+  font-size: 1.1rem;
+}
+
+.logo {
+  font-family: 'Kanit', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+.navButton {
+  margin: 0.2rem;
+  font-weight: 600;
+  font-style: bold;
+}

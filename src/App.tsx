@@ -1,4 +1,4 @@
-import Header from './components/NavBar'
+import Header from './components/Navbar'
 
 function App() {
   return (
